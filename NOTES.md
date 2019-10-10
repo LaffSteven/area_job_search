@@ -17,3 +17,7 @@ This will loop until the user enters exit.
       - Uses the zip code and search radius input to call the right page on craigslist
 3). Make a list of the jobs
       - Add jobs to an @@all array
+4). Print the whole list
+5). Display the selected job
+
+
