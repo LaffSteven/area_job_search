@@ -1,13 +1,15 @@
 class AreaJobSearch::CLI
 
-def initialize
-  puts "Created new CLI"
-  puts "Test Successful!"
-end
+  # Testing a load error
+  # Remove this after testing
+  def initialize
+    puts "Created new CLI"
+    puts "Test Successful!"
+  end
 
-def call
-  puts "Welcome to the Area Job Search Assistant"
-end
+  def call
+    puts "Welcome to the Area Job Search Assistant"
+  end
 
 ########    Methods Below Here    ########
 
