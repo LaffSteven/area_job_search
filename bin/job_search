@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 puts "hello world"
+
+AreaJobSearch::CLI.new.call
