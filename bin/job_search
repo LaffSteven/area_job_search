@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require "area_job_search"
-
-AreaJobSearch::CLI.new.call
